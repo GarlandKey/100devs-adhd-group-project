@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    align-items: center;
+    display: flex;
+    font-size: 62.5%;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+.container {
+    background: green;
+}
+
+
+

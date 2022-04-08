@@ -16,6 +16,8 @@
 
 ## Ideas
 
+This list will need prioritization in the future.
+
 * Ability to archive homework and class data once cohort is complete.
 
 * Ticket system to coordinate between those who want to give help and those who need help.
