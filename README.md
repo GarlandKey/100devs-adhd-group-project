@@ -31,5 +31,3 @@
 * Anki card share?
 
 * A page dedicated to projects that help people in the 100devs cohort.
-
-* 
