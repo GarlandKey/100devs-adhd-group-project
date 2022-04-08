@@ -4,7 +4,8 @@
 account
     |_ about        - 'string'
     |_ giveHelp     - [array] 
-    |_ getHelp      - [array]           
+    |_ getHelp      - [array]
+    |_ image        - 'string'           
     |_ name         - 'string'
     |_ password     - 'string'
     |_ phonetic     - 'string'
@@ -34,6 +35,7 @@ homework
     |_ dateDue          - 'string'
     |_ description      - 'string'
     |_ class            - 'string'
+    |_ coments          - [array]
     |_ isComplete       - boolean
     |_ isPush           - boolean
     |_ references       - [array]
