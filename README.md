@@ -8,6 +8,8 @@
 
 1. Create a minimalistic landing page.
 
+2. Create the ability to log in to the website and create an account.
+
 2. Develop easy access to assignments, classes, events, and resources.
 
 3. Develop a feature that matches those who have signed up to help with those who have requested help.
@@ -22,7 +24,7 @@ This list will need prioritization in the future.
 
 * Ticket system to coordinate between those who want to give help and those who need help.
 
-* Twitch streams to docuemnts our journey. 
+* Twitch streams to documents our journey. 
 
 * ADHD stream where you're coding web-apps that would help people in the cohort.
 
