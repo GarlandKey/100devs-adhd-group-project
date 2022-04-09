@@ -14,9 +14,15 @@
 
 4. Help each other identify comforts and struggles.
 
+**Standards**
+
+We will be adhering to the following style guides: 
+[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 ## Ideas
 
-This list will need prioritization in the future.
+This is a list of random ideas that we will add to and eventually narrow and prioritize each week during our weekly meetings.
 
 * Ability to archive homework and class data once cohort is complete.
 
