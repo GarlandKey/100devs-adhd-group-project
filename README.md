@@ -14,7 +14,7 @@
 
 4. Help each other identify comforts and struggles.
 
-**Standards**
+## Standards
 
 We will be adhering to the following style guides:
 
