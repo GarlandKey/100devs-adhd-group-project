@@ -8,11 +8,13 @@
 
 1. Create a minimalistic landing page.
 
-2. Develop easy access to assignments, classes, events, and resources.
+2. Create the ability to log in to the website and create an account.
 
-3. Develop a feature that matches those who have signed up to help with those who have requested help.
+3. Develop easy access to assignments, classes, events, and resources.
 
-4. Help each other identify comforts and struggles.
+4. Develop a feature that matches those who have signed up to help with those who have requested help.
+
+5. Help each other identify comforts and struggles.
 
 ## Standards
 
