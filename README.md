@@ -18,6 +18,7 @@
 
 We will be adhering to the following style guides: 
 [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## Ideas
