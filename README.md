@@ -1,16 +1,16 @@
-# 100devs-give-help-get-help
+# 100Devs-ADHD-Mutualism
 
-## What are we doing?
+## Project Overview
 
-**Goal:** We're trying to make our lives more manageable as a study group with adhd by making a web-app together. The goal is to allow the study group to optimize their ability to coordinate and keep track of the assignments and events collectively.
+**Goal:** As members of a study group with ADHD, we are making a website application to help each other and make our lives more manageable. We seek to optimize our ability to learn, coordinate, and track assignments and events collectively.
 
-**How do we do that?**
+**Steps:**
 
-1. Clear simple landing page
+1. Create a minimalistic landing page.
 
-2. Easy access to assignments, classes, events and materials
+2. Develop easy access to assignments, classes, events, and resources.
 
-3. Being able to easily find and match with people compfortable with helping in the areas that you need help in.
+3. Develop a feature that matches those who have signed up to help with those who have requested help.
 
 4. Help each other identify comforts and struggles.
 
