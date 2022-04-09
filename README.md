@@ -30,7 +30,7 @@ This is a list of random ideas that we will add to and eventually narrow and pri
 
 * Ticket system to coordinate between those who want to give help and those who need help.
 
-* Twitch streams to docuemnts our journey. 
+* Twitch streams to documents our journey. 
 
 * ADHD stream where you're coding web-apps that would help people in the cohort.
 
@@ -41,3 +41,5 @@ This is a list of random ideas that we will add to and eventually narrow and pri
 * Anki card share?
 
 * A page dedicated to projects that help people in the 100devs cohort.
+
+* Poll sections for group decisions (i.e. meeting times, etc.)
