@@ -28,6 +28,8 @@ We will be adhering to the following style guides:
 
 This is a list of random ideas that we will add to and eventually narrow and prioritize each week during our weekly meetings.
 
+* An archive of optimized copyleft images and icons created by members of the 100 devs cohort.
+
 * Ability to archive homework and class data once cohort is complete.
 
 * Ticket system to coordinate between those who want to give help and those who need help.
