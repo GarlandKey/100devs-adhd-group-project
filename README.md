@@ -16,16 +16,12 @@ This project is made by and for members of the 100Devs ADHD study group. Through
 
 * A resource board that allows the team to categorize, describe and share links. This data will be able to be shared with all other systems.
 
-----
-
 ## Standards
 ### We will be adhering to the following style guides:
 
 [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-
-----
 
 ## Agenda - April 16th, 2022
 
