@@ -16,8 +16,6 @@ This is a place where we'll park ideas that aren't in-line with the current dire
 
 * A way to timestamp and make a quick note during vods or live twitch.
 
-* Anki card share?
-
 * A page dedicated to projects that help people in the 100devs cohort.
 
 * Poll sections for group decisions (i.e. meeting times, etc.)
