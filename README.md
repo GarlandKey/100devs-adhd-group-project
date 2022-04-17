@@ -32,7 +32,7 @@ This project is made by and for members of the 100Devs ADHD study group. Through
 &nbsp;&nbsp;&nbsp;&nbsp;4:00pm - 6:00pm Central<br>
 &nbsp;&nbsp;&nbsp;&nbsp;5:00pm - 7:00pm Eastern<br>
 
-### 
+###[Link to the slides](https://www.canva.com/design/DAE9_vZKQcs/E4l0aCltIf6KA_grrceJ4A/edit?utm_content=DAE9_vZKQcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 1. **Introductions & Ice Breaker** | *~15 minutes*
 2. **Review Project Scope & Guidelines**| *~15 minutes* 
