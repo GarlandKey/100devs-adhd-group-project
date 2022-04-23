@@ -2,16 +2,54 @@
     box-sizing: border-box;
 }
 
+/* WARNING! DO NOT USE COLORS OTHER THAN WHAT IS DEFINED HERE
+ * These colors can be called using the following format:
+ *     var(--primary-main);
+ */
+:root {
+    --primary-main: #000; /* Black */
+    --secondary-main: #fff; /* White */
+    --primary-highlight: #ffc60b; /* Mikado Yellow */
+    --secondary-highlight: #ff0b4d; /* Red Crayola */
+    --lowlight: #8e8dbe; /* Blue Bell */
+}
+
+::-moz-selection, ::selection {
+    background: var(--primary-highlight);
+    color: var(--secondary-highlight);
+  }
+
 html {
     align-items: center;
+    background: var(--primary-main);
     display: flex;
     font-family: 'Roboto', sans-serif;
     font-size: 62.5%;
     flex-flow: column nowrap;
     justify-content: center;
+    width: 100%;
 }
 
+#top-navigation {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 5rem;
+    justify-content: space-between;
+    width: 100vw;
+}
 
-
-
-
+.search > input[type="search"] {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background: var(--secondary-main);
+    border: solid 1px transparent;
+    border-radius: 1rem;
+    color: var(--primary-main);
+    outline: 0;
+    padding: 1rem;
+    resize: none;
+    text-decoration: none;
+    width: 30rem;
+}

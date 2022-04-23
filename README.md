@@ -40,10 +40,10 @@ This project is made by and for members of the 100Devs ADHD study group. Through
     * Introductions.
     * Select minute taker.
 
-2. **Review Project Scope & Guidelines (Quick Review)** | *~10 minutes* 
-3. **Core Project (Quick Review)** | *~15 minutes*
-4. **Brief Q&A** | *~15 minutes*
-5. **Dividing up into teams** | *~15 minutes*
+2. **Review Project Scope & Guidelines (Quick Review)** | *~5 minutes* 
+3. **Core Project (Quick Review)** | *~10 minutes*
+4. **Brief Q&A** | *~5 minutes*
+5. **Dividing up into teams** | *~5 minutes*
 
     Last week, everyone present chose a team. This is completely voluntary but is discussed collectively. Everyone is allowed to wear multiple hats.
     
