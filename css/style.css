@@ -22,6 +22,7 @@
 html {
     align-items: center;
     background: var(--primary-main);
+    color: var(--secondary-main);
     display: flex;
     font-family: 'Roboto', sans-serif;
     font-size: 62.5%;
@@ -35,6 +36,7 @@ html {
     flex-flow: row nowrap;
     height: 5rem;
     justify-content: space-between;
+    padding: 1rem;
     width: 100vw;
 }
 
