@@ -1,5 +1,8 @@
-# 100Devs ADHD Study Group - thinkBig Project
+<h1 align="center">
+  <a href="https://github.com/100Devs-ADHD/think-big">
+    <img src="https://github.com/100Devs-ADHD/assets/blob/main/thinkbig-logo.svg" alt="thinkBig" width="500" >
+  </a>
+</h1>
 
-**Notice:**
-
-This repo has moved to: https://github.com/100Devs-ADHD/think-big
+### This repository has moved to:
+## https://github.com/100Devs-ADHD/think-big
